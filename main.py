@@ -3,8 +3,7 @@ import csv
 import decimal
 
 # Greeting
-print("====================[Welcome to the Beta number calculator | Made by Nikolaos Prinianakis - "
-      "l7190179]====================")
+print("====================[Welcome to the Beta number calculator]====================")
 
 # Instruction
 print("Your .csv file's header should be like this: Institution-delimiter-index")
